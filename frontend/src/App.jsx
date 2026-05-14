@@ -3,7 +3,7 @@ import api from "./api";
 import { useParams } from "react-router-dom";
 
 const ratings = [
-  { label: "Newbie", value: "newbie" },
+  { label: "Beginner", value: "newbie" },
   { label: "Intermediate Beginner", value: "intermediate_beginner" },
   { label: "Advanced Beginner", value: "advanced_beginner" },
   { label: "Low Intermediate", value: "low_intermediate" },
